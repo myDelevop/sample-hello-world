@@ -1,0 +1,1 @@
+after installation run  yarn sls-dev-tools it's an amazing shell tool for AWS analysis
